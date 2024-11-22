@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8040"; // Substitua pela URL do seu serviço FastAPI
+const BASE_URL = "http://localhost:8040";
 
 /**
  * Fetches the root endpoint
